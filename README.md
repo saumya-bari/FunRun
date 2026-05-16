@@ -3,9 +3,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="[https://freeimage.host/i/Bpl7Yga](https://drive.google.com/file/d/15HpL7lfOz6y7GktjZ-S-jLXPr8ojKFVJ/view?usp=sharing)"  />
-</div>
+<img width="834" height="1280" alt="photo_6071015455373070878_y" src="https://github.com/user-attachments/assets/991e10da-129c-49b1-888e-33f2659c4bf3" />
 
 ###
 
