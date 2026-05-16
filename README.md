@@ -2,9 +2,9 @@
 <h1 align="center">FUN RUN - A Space Endless Runner</h1>
 
 ###
-<p  align="center"></p>
+<p  align="center">
 <img width="350" height="500" alt="photo_6071015455373070878_y" src="https://github.com/user-attachments/assets/991e10da-129c-49b1-888e-33f2659c4bf3" />
-
+</p>
 ###
 
 <p align="left"></p>
