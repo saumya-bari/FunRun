@@ -2,7 +2,7 @@
 
 ###
 
-<p align = "center"
+<p align = "center">
 <img width="834" height="1280" alt="photo_6071015455373070878_y" src="https://github.com/user-attachments/assets/2bdb4d70-842f-4389-9d7f-e433045751a4" />
 </p>
 
@@ -116,15 +116,6 @@
 
 <h4 align="center">CLICK HERE TO PLAY  👇<br><br>https://www.astrocade.com/games/astro-dash/01KRQ92HSFDRFNHDVCJQ1H70TE?sharedByCreator=saumya222&surface=web</h4>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumya-bari/saumya-bari/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saumya-bari/saumya-bari/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saumya-bari/saumya-bari/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <h1 align="center">🛠​🇧​​🇺​​🇮​​🇱​​🇩​ ​🇼​​🇮​​🇹​​🇭​</h1>
 
