@@ -118,10 +118,10 @@
 ###
 
 <div align="center">
-   <img width="575" height="1280" alt="photo_6071015455373070893_y" src="https://github.com/user-attachments/assets/aae0580a-5bdb-45e9-9d61-9463fcc1c223" />
-<img width="575" height="1280" alt="photo_6071015455373070873_y" src="https://github.com/user-attachments/assets/ae9098bd-6d61-4ead-8838-acada7f3f6c9" />
-<img width="714" height="1280" alt="photo_6071015455373070862_y" src="https://github.com/user-attachments/assets/9840a8de-c0e7-4155-b4cc-6b13a69adb83" />
-<img width="708" height="1280" alt="photo_6071015455373070861_y" src="https://github.com/user-attachments/assets/f1379500-8645-4e70-9557-4825a048496c" />
+   <img width="250" height="400" alt="photo_6071015455373070893_y" src="https://github.com/user-attachments/assets/aae0580a-5bdb-45e9-9d61-9463fcc1c223" />
+<img width="250" height="400" alt="photo_6071015455373070873_y" src="https://github.com/user-attachments/assets/ae9098bd-6d61-4ead-8838-acada7f3f6c9" />
+<img width="250" height="400" alt="photo_6071015455373070862_y" src="https://github.com/user-attachments/assets/9840a8de-c0e7-4155-b4cc-6b13a69adb83" />
+<img width="250" height="400" alt="photo_6071015455373070861_y" src="https://github.com/user-attachments/assets/f1379500-8645-4e70-9557-4825a048496c" />
 
 </div>
 
